@@ -1,2 +1,2 @@
 # avd
-Original start theme from getbootstrap
+Original start theme with carousel (slider) from getbootstrap
